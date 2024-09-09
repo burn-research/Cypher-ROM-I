@@ -31,4 +31,13 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+# Data
+
+D_pca.npy
+D_pod_f10.npy
+D_pod_fcomplex.npy
+example.py
+grid.vtu
+README.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/macos
